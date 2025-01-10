@@ -1,0 +1,9 @@
+# Device-specific proprietary files - from Samsung package version X210XXU5CXK4, unless pinned
+
+# WiFi firmware (common)
+vendor/firmware/wlan/qca_cld/bdwlan.bin
+vendor/firmware/wlan/qca_cld/grippower.info
+vendor/firmware/wlan/qca_cld/regdb.bin
+
+# WiFi firmware (for SM-X210 model)
+vendor/firmware/wlanmdsp.mbn:vendor/firmware/wlanmdsp_SM-X210.mbn
